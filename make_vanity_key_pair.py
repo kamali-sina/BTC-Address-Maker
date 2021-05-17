@@ -5,11 +5,6 @@ import threading
 import time
 import sys
 
-'''
-wif: cV8wuxebvFnxCw7NC17Fch69bzGHDy8T9A6NyABdhpLywdmd4omF
-pub: msinxQbFhdWpurthWmXiggzJNbNtH3aJud
-'''
-
 done = False
 def animate():
     for c in itertools.cycle(['|', '/', '-', '\\']):

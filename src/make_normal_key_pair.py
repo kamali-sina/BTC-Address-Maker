@@ -1,4 +1,4 @@
-import key_maker
+import key_maker as key_maker
 
 if __name__ == '__main__':
     private_key = key_maker.get_private_key()

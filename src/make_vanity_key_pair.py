@@ -1,7 +1,6 @@
-import key_maker
+from key_maker import key_maker as key_maker
 import sys
 import itertools
-import threading
 import time
 import sys
 

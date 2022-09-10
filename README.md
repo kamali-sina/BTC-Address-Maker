@@ -15,3 +15,7 @@ To use the project, run:
     make normal
 
 This will make a normal keypair. You can also use "segwit" and "vanity" instead of "normal" to create alternative forms of a key pair.
+
+## Contact
+
+Feel free to contact me if you have any questions.
